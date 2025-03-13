@@ -9,7 +9,8 @@
     "publication_date": "2025-02-20",
     "read_time": 8,
     "categories": "Lifestyle,Food & Drink,Sydney Guides",
-    "location": "Sydney Harbour"
+    "location": "Sydney Harbour",
+    "$inventory_policy": 1
   },
   {
     "$id": "A10002",
